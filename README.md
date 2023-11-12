@@ -46,3 +46,5 @@ This project is maintained by **Ivy Kibe**.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Screenshot from 2023-11-12 09-22-25](https://github.com/M-M-Coders/SmartCare-Consultants/assets/144125745/2493555b-2379-4a58-93bc-58f28a87f674)
+
